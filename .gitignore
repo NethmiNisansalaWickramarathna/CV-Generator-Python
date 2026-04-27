@@ -1,0 +1,16 @@
+# Generated CV outputs
+cv_outputs/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+
+# System files
+.DS_Store
+Thumbs.db
